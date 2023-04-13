@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rseba\\OneDrive\\Escritorio\\Cursos\\APIs con .NET\\Ejercicios\\Ejercicio 2\\UniversidadApiBackend\\UniversidadApiBackend\\UniversidadApiBackend.csproj": {}
+    "C:\\Users\\rseba\\OneDrive\\Escritorio\\Cursos\\APIs con .NET\\Ejercicios\\Ejercicio 2\\UniversidadApiBackend\\UniversidadApiBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rseba\\OneDrive\\Escritorio\\Cursos\\APIs con .NET\\Ejercicios\\Ejercicio 2\\UniversidadApiBackend\\UniversidadApiBackend\\UniversidadApiBackend.csproj": {
+    "C:\\Users\\rseba\\OneDrive\\Escritorio\\Cursos\\APIs con .NET\\Ejercicios\\Ejercicio 2\\UniversidadApiBackend\\UniversidadApiBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rseba\\OneDrive\\Escritorio\\Cursos\\APIs con .NET\\Ejercicios\\Ejercicio 2\\UniversidadApiBackend\\UniversidadApiBackend\\UniversidadApiBackend.csproj",
+        "projectUniqueName": "C:\\Users\\rseba\\OneDrive\\Escritorio\\Cursos\\APIs con .NET\\Ejercicios\\Ejercicio 2\\UniversidadApiBackend\\UniversidadApiBackend.csproj",
         "projectName": "UniversidadApiBackend",
-        "projectPath": "C:\\Users\\rseba\\OneDrive\\Escritorio\\Cursos\\APIs con .NET\\Ejercicios\\Ejercicio 2\\UniversidadApiBackend\\UniversidadApiBackend\\UniversidadApiBackend.csproj",
+        "projectPath": "C:\\Users\\rseba\\OneDrive\\Escritorio\\Cursos\\APIs con .NET\\Ejercicios\\Ejercicio 2\\UniversidadApiBackend\\UniversidadApiBackend.csproj",
         "packagesPath": "C:\\Users\\rseba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rseba\\OneDrive\\Escritorio\\Cursos\\APIs con .NET\\Ejercicios\\Ejercicio 2\\UniversidadApiBackend\\UniversidadApiBackend\\obj\\",
+        "outputPath": "C:\\Users\\rseba\\OneDrive\\Escritorio\\Cursos\\APIs con .NET\\Ejercicios\\Ejercicio 2\\UniversidadApiBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rseba\\AppData\\Roaming\\NuGet\\NuGet.Config",

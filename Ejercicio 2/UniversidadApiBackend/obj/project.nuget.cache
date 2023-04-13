@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xUHjHww9iGu935ahnJNL/9YwgSKorJC7MA/esXjCAgPrEimDTFlbFt+nMyqfkBYNPEStdqKToxZK26ILy1bQ7Q==",
+  "dgSpecHash": "PE7mRw2MYBPg5s+wCjM7VfWa4cRkIeWjkn25Y/rMEZxYXJ3OhsBWpGbPgNWVei2ySIK+NzoWKSTcm5IRSwyhrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rseba\\OneDrive\\Escritorio\\Cursos\\APIs con .NET\\Ejercicios\\Ejercicio 2\\UniversidadApiBackend\\UniversidadApiBackend\\UniversidadApiBackend.csproj",
+  "projectFilePath": "C:\\Users\\rseba\\OneDrive\\Escritorio\\Cursos\\APIs con .NET\\Ejercicios\\Ejercicio 2\\UniversidadApiBackend\\UniversidadApiBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rseba\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\rseba\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
